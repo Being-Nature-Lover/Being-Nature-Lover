@@ -1,4 +1,4 @@
-<img align="center" src="https://wl-brightside.cf.tsp.li/resize/728x/jpg/6f5/d79/6c2d4457e7b227254fbc0f51" />
+<img align="center" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
 
 
 - 👋 Hi, I’m @Being-Nature-Lover
