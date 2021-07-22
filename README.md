@@ -1,4 +1,4 @@
-<img align="center" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
+![Semantic description of image](https://i2.wp.com/coverfiles.alphacoders.com/463/46349.jpg "Image Title")
 
 - 👋 Hi, I’m @Being-Nature-Lover
 - 👀 I’m interested in web development, data analysis, Data visualization.
