@@ -12,3 +12,8 @@
 ![Optional Text](https://cdn.icon-icons.com/icons2/2101/PNG/128/social_media_twitter_icon_128994.png)
 ![Optional Text](https://cdn.icon-icons.com/icons2/2101/PNG/128/social_media_skype_icon_129001.png)
 ![Optional Text](https://cdn.icon-icons.com/icons2/2101/PNG/128/social_media_youtube_video_play_icon_128997.png)
+
+
+<a href=”https://www.linkedin.com/in/mohite-balaji/">
+<img align=”left” src=”https://cdn.icon-icons.com/icons2/2101/PNG/128/social_media_linkedin_icon_128990.png" alt=”Balaji | LinkedIn” width=”21px”/>
+</a>
