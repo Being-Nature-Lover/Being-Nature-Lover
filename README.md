@@ -14,9 +14,12 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/mohite-balaji/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/mohite-balaji/"><img align="left" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/linkedin-128.png" alt="Balaji | LinkedIn" width="21px"/></a>
+<a href="#"><img align="left" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/instagram_social_media_social_media_network-128.png" alt="Balaji | Instagram" width="21px"/></a>
+<a href="#"><img align="left" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/twitter_social_media_social_media_network-128.png" alt="Balaji | Twitter" width="21px"/></a>
+<a href="#"><img align="left" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-128.png" alt="Balaji | Discord" width="21px"/></a>
+<a href="#"><img align="left" src="https://cdn0.iconfinder.com/data/icons/social-media-2473/128/skype_interface_media_social_network-128.png" alt="Balaji | Skype" width="21px"/></a>
+
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -35,27 +38,10 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Unix-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Cloud-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-Mongodb-informational?style=flat&logo=SQLite&color=003B57)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+<a href="#"><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/50/000000/python.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/50/000000/xml-transformer.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/50/000000/cloud-development.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/50/000000/terraform.png"/></a>
